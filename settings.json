@@ -1,0 +1,285 @@
+{
+  "name": "Интенсивная подготовка учащихся 9-11 классов к ВсОШ по информатике, Стерлитамак 2021",
+  "sheet_id": "1lPu2yzd8fIE48DDXjQfJuQprG3fbU8wL6C9Tm0cMCYg",
+  "members": [
+    {
+      "login": "AnyWay_123",
+      "showed_name": "Бражкин Егор"
+    },
+    {
+      "login": "Username2",
+      "showed_name": "Валеев Руслан"
+    },
+    {
+      "login": "Sammir0",
+      "showed_name": "Сафин Самир"
+    },
+    {
+      "login": "Elgiza",
+      "showed_name": "Гумерова Эльгиза"
+    },
+    {
+      "login": "Danil_Eroshenko",
+      "showed_name": "Ерошенко Даниил"
+    },
+    {
+      "login": "ght_paupau",
+      "showed_name": "Имангулов Дамир"
+    },
+    {
+      "login": "Noty",
+      "showed_name": "Чекмарев Глеб"
+    },
+    {
+      "login": "Majic1",
+      "showed_name": "Низамов Динислам"
+    },
+    {
+      "login": "ZolloL",
+      "showed_name": "Золотарёва Елизавета"
+    },
+    {
+      "login": "user433",
+      "showed_name": "Новиков Артём"
+    },
+    {
+      "login": "N_San",
+      "showed_name": "Панченко Александр"
+    },
+    {
+      "login": "Haitel",
+      "showed_name": "Артемьев Кирилл"
+    },
+    {
+      "login": "DanilaKhasanov220",
+      "showed_name": "Хасанов Данила"
+    },
+    {
+      "login": "vildan_yak",
+      "showed_name": "Якупов Вильдан"
+    },
+    {
+      "login": "Bikanasova",
+      "showed_name": "Биканасова Эльвина"
+    },
+    {
+      "login": "G1malov",
+      "showed_name": "Гималов Ильгам"
+    }
+  ],
+  "sorting": {
+    "arg": "rating",
+    "direction": "DESC"
+  },
+  "total_calc": true,
+  "total_calc_before_deadline": true,
+  "show_langs": null,
+  "show_date": null,
+  "show_time": null,
+  "show_params" : null,
+  "last_or_first": null,
+  "task_groups": [
+    {
+      "groop_name": "29.10.2021",
+      "show": true,
+      "total_calc": true,
+      "show_langs": true,
+      "show_date": true,
+      "show_time": true,
+      "show_params" : true,
+      "last_or_first": "first",
+      "deadline": "2021-10-30T14:00:00.000",
+      "total_calc_before_deadline": true,
+      "tasks": [
+        {
+          "contestId": 1598,
+          "index": "A"
+        },
+        {
+          "contestId": 1598,
+          "index": "B"
+        }
+      ]
+    },
+    {
+      "groop_name": "30.10.2021",
+      "show": true,
+      "total_calc": true,
+      "show_langs": true,
+      "show_date": true,
+      "show_time": true,
+      "show_params" : true,
+      "last_or_first": "first",
+      "deadline": "2021-11-01T10:20:00.000",
+      "total_calc_before_deadline": true,
+      "tasks": [
+        {
+          "contestId": 1602,
+          "index": "A"
+        },
+        {
+          "contestId": 1538,
+          "index": "B"
+        },
+        {
+          "contestId": 1426,
+          "index": "B"
+        },
+        {
+          "contestId": 1413,
+          "index": "B"
+        }
+      ]
+    },
+    {
+      "groop_name": "01.11.2021",
+      "show": true,
+      "total_calc": true,
+      "show_langs": true,
+      "show_date": true,
+      "show_time": true,
+      "show_params" : true,
+      "last_or_first": "first",
+      "deadline": "2021-11-02T10:20:00.000",
+      "total_calc_before_deadline": true,
+      "tasks": [
+        {
+          "contestId": 750,
+          "index": "A"
+        },
+        {
+          "contestId": 1409,
+          "index": "C"
+        },
+        {
+          "contestId": 858,
+          "index": "A"
+        }
+      ]
+    },
+    {
+      "groop_name": "02.11.2021\nНОД, НОК, алгоритм Евклида,\nдиофантовые уравнения",
+      "show": true,
+      "total_calc": true,
+      "show_langs": true,
+      "show_date": true,
+      "show_time": true,
+      "show_params" : true,
+      "last_or_first": "first",
+      "deadline": "2021-11-03T10:20:00.000",
+      "total_calc_before_deadline": true,
+      "tasks": [
+        {
+          "contestId": 1325,
+          "index": "A"
+        },
+        {
+          "contestId": 664,
+          "index": "A"
+        }
+      ]
+    },
+    {
+      "groop_name": "03.11.2021\nДелители числа,\nрешето Эратосфена",
+      "show": true,
+      "total_calc": true,
+      "show_langs": true,
+      "show_date": true,
+      "show_time": true,
+      "show_params" : true,
+      "last_or_first": "first",
+      "deadline": "2021-11-05T14:00:00.000",
+      "total_calc_before_deadline": true,
+      "tasks": [
+        {
+          "contestId": 822,
+          "index": "A"
+        },
+        {
+          "contestId": 797,
+          "index": "A"
+        },
+        {
+          "contestId": 633,
+          "index": "A"
+        },
+        {
+          "contestId": 660,
+          "index": "A"
+        },
+        {
+          "contestId": 1076,
+          "index": "B"
+        },
+        {
+          "contestId": 1068,
+          "index": "B"
+        }
+      ]
+    },
+    {
+      "groop_name": "05.11.2021\nФакторизация числа,\nминимальный простой делитель,\nдинамическое программирование",
+      "show": true,
+      "total_calc": true,
+      "show_langs": true,
+      "show_date": true,
+      "show_time": true,
+      "show_params" : true,
+      "last_or_first": "first",
+      "deadline": "2021-11-06T14:00:00.000",
+      "total_calc_before_deadline": true,
+      "tasks": [
+        {
+          "contestId": 702,
+          "index": "A"
+        },
+        {
+          "contestId": 1501,
+          "index": "B"
+        },
+        {
+          "contestId": 368,
+          "index": "B"
+        },
+        {
+          "contestId": 1195,
+          "index": "C"
+        }
+      ]
+    },
+    {
+      "groop_name": "06.11.2021\nИтоговая контрольная",
+      "show": true,
+      "total_calc": true,
+      "show_langs": true,
+      "show_date": true,
+      "show_time": true,
+      "show_params" : true,
+      "last_or_first": "first",
+      "deadline": "2021-11-06T22:00:00.000",
+      "total_calc_before_deadline": true,
+      "tasks": [
+        {
+          "contestId": 1519,
+          "index": "B"
+        },
+        {
+          "contestId": 1206,
+          "index": "B"
+        },
+        {
+          "contestId": 17,
+          "index": "A"
+        },
+        {
+          "contestId": 1472,
+          "index": "C"
+        },
+        {
+          "contestId": 1285,
+          "index": "C"
+        }
+      ]
+    }
+  ]
+}
